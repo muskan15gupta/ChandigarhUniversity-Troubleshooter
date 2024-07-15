@@ -1,0 +1,153 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F5F5F5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background-color: #F13AB1;  /* Frostbite */
+    color: #FFFFFF;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
+/* Main Content */
+main {
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #E72744;  /* Imperial Red */
+}
+
+/* Buttons */
+button, .btn {
+    background-color: #FD913C;  /* Royal Orange */
+    color: #FFFFFF;
+    border: none;
+    padding: 8px 16px;  /* Smaller padding */
+    cursor: pointer;
+    border-radius: 4px;  /* Smaller border radius */
+}
+
+button:hover, .btn:hover {
+    background-color: #F05524;  /* Halloween Orange */
+}
+
+/* Links */
+a {
+    color: #E72744;  /* Imperial Red */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* List Items */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background-color: #FFFFFF;
+    margin: 8px 0;  /* Smaller margin */
+    padding: 8px;  /* Smaller padding */
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;  /* Smaller border radius */
+}
+
+li a {
+    color: #E72744;  /* Imperial Red */
+}
+
+li a:hover {
+    text-decoration: underline;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #29303E; /* Gunmetal */
+    color: #FFFFFF; /* White */
+    padding: 20px;
+    text-align: center;
+    position: relative; /* Ensure footer is in normal flow */
+    margin-top: 20px; /* Adjust as needed to push the footer down */
+}
+
+/* Grid Layout for Wardrobe Items */
+.wardrobe-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px; /* Space between items */
+    justify-content: left; /* Center items horizontally */
+}
+
+.wardrobe-item {
+    flex: 1 1 calc(25% - 20px); /* Four items per row with a gap */
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px; /* Smaller border radius */
+    padding: 10px;  /* Adjusted padding */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items horizontally */
+    text-align: center; /* Center text */
+    max-width: 270px; /* Limit the width of the item box */
+}
+
+.item-image {
+    max-width: 100%; /* Fit image within the box */
+    height: auto;
+    border-radius: 4px; /* Smaller border radius */
+    margin-bottom: 10px; /* Space between image and details */
+}
+
+.item-details {
+    margin-top: 10px; /* Space above details */
+}
+
+.item-details a {
+    display: inline-block;
+    margin-right: 10px; /* Space between links */
+    color: #D50032; /* Color for links */
+}
+
+.item-details a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 1200px) {
+    .wardrobe-item {
+        flex: 1 1 calc(33.333% - 20px); /* Three items per row on medium screens */
+    }
+}
+
+@media (max-width: 768px) {
+    .wardrobe-item {
+        flex: 1 1 calc(50% - 20px); /* Two items per row on small screens */
+    }
+}
+
+@media (max-width: 480px) {
+    .wardrobe-item {
+        flex: 1 1 100%; /* One item per row on extra small screens */
+    }
+}

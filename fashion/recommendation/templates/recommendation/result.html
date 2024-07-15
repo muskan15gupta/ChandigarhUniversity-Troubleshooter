@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block title %}Recommendation Result{% endblock %}
+
+{% block content %}
+    <h1>Recommended Outfit Type</h1>
+    <p>{{ recommended_outfit }}</p>
+    {% load static %}
+    <div>
+        <img src="{% static 'images/top.jpg' %}" alt="top" style="width: 200px; height: 200px;  ">
+        <img src="{% static 'images/blacktop.jpg' %}" alt="top" style="width: 200px; height: 200px;">
+        <img src="{% static 'images/pink-variegated-rib-collared-casual-top.jpg' %}" alt="top" style="width: 200px; height: 200px;">
+        <img src="{% static 'images/polo-collar-t-shirt.jpg' %}" alt="top" style="width: 200px; height: 200px;">
+    </div>
+    <br>
+    <br>
+    <a href="{% url 'recommendation:outfit_recommendation' %}" class="btn">Get Another Recommendation</a>
+    <br>
+    <br>
+    <br>
+{% endblock %}

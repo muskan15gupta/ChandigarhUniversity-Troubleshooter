@@ -1,0 +1,16 @@
+<!-- result.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recommended Outfit</title>
+    {% load static %}
+</head>
+<body>
+    <h2>Recommended Outfit</h2>
+    <p>{{ recommended_outfit }}</p>
+    <a href="{% url 'outfit_recommendation' %}">Get Another Recommendation</a>
+    <div>
+        <img src="{% static 'images/top.jpg' %}" alt="top" style="width: 100%; height: auto;">
+    </div>
+</body>
+</html>

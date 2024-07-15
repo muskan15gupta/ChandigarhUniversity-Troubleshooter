@@ -1,0 +1,15 @@
+<!-- wardrobe/templates/wardrobe/wardrobe_confirm_delete.html -->
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Delete {{ object.name }}{% endblock %}
+
+{% block content %}
+    <h1>Delete {{ object.name }}</h1>
+    <p>Are you sure you want to delete this item?</p>
+    <form method="post">
+        {% csrf_token %}
+        <button type="submit">Delete</button>
+    </form>
+    <a href="{% url 'wardrobe:list' %}">Cancel</a>
+{% endblock %}

@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}{{ item.name }}{% endblock %}
+
+{% block content %}
+    <h1>{{ item.category }} - {{ item.brand }}</h1>
+    <p>Color: {{ item.color }}</p>
+    <p>Material: {{ item.material }}</p>
+    {% if item.image %}
+        <img src="{{ item.image.url }}" alt="{{ item.brand }}" class="item-image">
+    {% endif %}
+    <br><br><br>
+    <a href="{% url 'wardrobe:update' item.pk %}" class="btn">Edit</a>
+    <a href="{% url 'wardrobe:delete' item.pk %}" class="btn">Delete</a>
+    <a href="{% url 'wardrobe:list' %}" class="btn">Back to List</a>
+    <br><br><br>
+{% endblock %}
+
+{% block extra_styles %}
+    <style>
+        .item-image {
+            max-width: 200px;  /* Adjust the maximum width */
+            height: auto;      /* Maintain aspect ratio */
+        }
+    </style>
+{% endblock %}

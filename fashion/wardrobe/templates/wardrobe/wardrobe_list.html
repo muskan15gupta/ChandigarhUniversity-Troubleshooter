@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block title %}Wardrobe List{% endblock %}
+
+{% block content %}
+    <h1>Wardrobe Items</h1>
+    <div class="wardrobe-grid">
+        {% for item in items %}
+            <div class="wardrobe-item">
+                {% if item.image %}
+                    <img src="{{ item.image.url }}" alt="{{ item.category }}" class="item-image">
+                {% endif %}
+                <div class="item-details">
+                    <p> {{ item.brand }}</p>
+                    <a href="{% url 'wardrobe:detail' item.pk %}">View</a>
+                    <a href="{% url 'wardrobe:update' item.pk %}">Edit</a>
+                    <a href="{% url 'wardrobe:delete' item.pk %}">Delete</a>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}

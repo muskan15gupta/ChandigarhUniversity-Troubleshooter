@@ -1,0 +1,201 @@
+Occasion,Outfit_Type,Color,Material,Pattern,Sleeve_Length,Neckline,Fit,Accessory,Brand
+Sports,Suit,Yellow,Cotton,Polka Dot,Short Sleeve,Halter,Regular,Hat,Levi's
+Business,Shorts,Pink,Chiffon,Striped,Long Sleeve,Off-Shoulder,Regular,Belt,Levi's
+Business,Suit,Black,Silk,Polka Dot,Short Sleeve,Off-Shoulder,Loose,Watch,H&M
+Formal,Sportswear,Green,Wool,Abstract,Three-Quarter Sleeve,Collared,Slim,Belt,Puma
+Casual,Saree,Purple,Silk,Floral,Short Sleeve,Off-Shoulder,Slim,Ring,Levi's
+Sports,T-shirt,Orange,Denim,Polka Dot,Short Sleeve,Round Neck,Tailored,Necklace,Levi's
+Sports,T-shirt,Red,Linen,Polka Dot,Three-Quarter Sleeve,Halter,Loose,Scarf,Puma
+Wedding,Shorts,Purple,Wool,Abstract,Long Sleeve,Halter,Slim,Scarf,Levi's
+Party,Skirt,Orange,Chiffon,Floral,Sleeveless,Halter,Tailored,Sunglasses,Adidas
+Casual,Dress,Brown,Wool,Abstract,Short Sleeve,Round Neck,Slim,Belt,Gucci
+Formal,Sportswear,Orange,Silk,Striped,Short Sleeve,Halter,Slim,Belt,Adidas
+Wedding,Jumpsuit,Purple,Polyester,Polka Dot,Long Sleeve,V-Neck,Loose,Belt,H&M
+Wedding,Dress,Black,Leather,Polka Dot,Three-Quarter Sleeve,Halter,Regular,Belt,H&M
+Casual,Jeans,Orange,Chiffon,Checked,Long Sleeve,Halter,Regular,Watch,Gucci
+Wedding,T-shirt,Green,Silk,Striped,Short Sleeve,Off-Shoulder,Slim,Necklace,Adidas
+Business,Sportswear,White,Chiffon,Abstract,Three-Quarter Sleeve,Collared,Slim,Bracelet,Prada
+Wedding,Skirt,Yellow,Polyester,Solid,Sleeveless,Halter,Tailored,Ring,Levi's
+Sports,Skirt,Orange,Denim,Solid,Long Sleeve,Off-Shoulder,Regular,Belt,Reebok
+Business,Dress,Brown,Polyester,Floral,Long Sleeve,V-Neck,Loose,Hat,H&M
+Party,T-shirt,Yellow,Wool,Solid,Three-Quarter Sleeve,V-Neck,Tailored,Watch,Prada
+Sports,Jeans,Orange,Silk,Floral,Three-Quarter Sleeve,V-Neck,Regular,Scarf,Nike
+Formal,Blazer,Purple,Linen,Abstract,Sleeveless,V-Neck,Slim,Earrings,Levi's
+Wedding,Skirt,Blue,Silk,Striped,Short Sleeve,Round Neck,Regular,Sunglasses,Reebok
+Wedding,Jeans,Purple,Polyester,Polka Dot,Long Sleeve,Halter,Tailored,Bracelet,Gucci
+Casual,Sportswear,Orange,Polyester,Polka Dot,Short Sleeve,Collared,Tailored,Scarf,Adidas
+Casual,Jumpsuit,Black,Silk,Striped,Sleeveless,Halter,Regular,Bracelet,Reebok
+Wedding,Sportswear,Pink,Wool,Striped,Sleeveless,Round Neck,Loose,Watch,Gucci
+Casual,Jumpsuit,Pink,Leather,Solid,Three-Quarter Sleeve,Halter,Regular,Belt,Nike
+Casual,Blazer,Pink,Denim,Solid,Sleeveless,V-Neck,Loose,Watch,Zara
+Party,Jumpsuit,Red,Polyester,Checked,Sleeveless,Round Neck,Tailored,Earrings,Nike
+Party,Dress,Blue,Wool,Checked,Three-Quarter Sleeve,Collared,Slim,Sunglasses,Levi's
+Casual,Dress,Black,Wool,Solid,Long Sleeve,Collared,Slim,Belt,Reebok
+Casual,Blazer,Pink,Cotton,Polka Dot,Sleeveless,V-Neck,Slim,Bracelet,Gucci
+Wedding,Skirt,White,Polyester,Polka Dot,Long Sleeve,Collared,Tailored,Hat,Levi's
+Business,Jumpsuit,Pink,Wool,Floral,Long Sleeve,Collared,Tailored,Scarf,Levi's
+Wedding,Jumpsuit,Pink,Cotton,Striped,Long Sleeve,Halter,Loose,Bracelet,Puma
+Business,Shorts,White,Cotton,Polka Dot,Sleeveless,Round Neck,Loose,Hat,Puma
+Sports,Blazer,Brown,Silk,Checked,Three-Quarter Sleeve,Halter,Tailored,Ring,H&M
+Business,Dress,Yellow,Chiffon,Polka Dot,Short Sleeve,Round Neck,Tailored,Hat,Prada
+Wedding,Sportswear,White,Leather,Floral,Three-Quarter Sleeve,Round Neck,Tailored,Hat,Adidas
+Sports,Saree,Brown,Polyester,Floral,Short Sleeve,Round Neck,Loose,Belt,Adidas
+Formal,Sportswear,White,Cotton,Checked,Short Sleeve,Round Neck,Loose,Necklace,Nike
+Party,Saree,Orange,Chiffon,Striped,Sleeveless,Round Neck,Loose,Earrings,H&M
+Sports,Sportswear,Red,Cotton,Solid,Three-Quarter Sleeve,Round Neck,Loose,Watch,Adidas
+Casual,T-shirt,Purple,Cotton,Striped,Long Sleeve,V-Neck,Loose,Necklace,Puma
+Formal,Suit,Pink,Denim,Checked,Sleeveless,Off-Shoulder,Slim,Sunglasses,Prada
+Business,Blazer,Green,Silk,Checked,Three-Quarter Sleeve,V-Neck,Regular,Watch,Nike
+Wedding,Blazer,Black,Cotton,Floral,Three-Quarter Sleeve,V-Neck,Loose,Earrings,Gucci
+Formal,Dress,Red,Cotton,Striped,Long Sleeve,Collared,Slim,Hat,Adidas
+Wedding,T-shirt,Orange,Linen,Striped,Long Sleeve,Off-Shoulder,Slim,Scarf,H&M
+Casual,Shorts,Pink,Silk,Checked,Sleeveless,Round Neck,Tailored,Bracelet,Puma
+Business,Jeans,Yellow,Silk,Checked,Three-Quarter Sleeve,Collared,Tailored,Ring,H&M
+Wedding,Skirt,Pink,Cotton,Abstract,Three-Quarter Sleeve,Off-Shoulder,Tailored,Bracelet,Adidas
+Formal,Sportswear,Brown,Chiffon,Polka Dot,Three-Quarter Sleeve,Halter,Slim,Necklace,Prada
+Wedding,Saree,Orange,Leather,Abstract,Three-Quarter Sleeve,Off-Shoulder,Tailored,Earrings,Reebok
+Casual,Dress,White,Cotton,Checked,Three-Quarter Sleeve,Halter,Slim,Scarf,H&M
+Party,Jeans,Pink,Wool,Checked,Sleeveless,Off-Shoulder,Regular,Earrings,Adidas
+Business,Jeans,Yellow,Leather,Polka Dot,Sleeveless,Round Neck,Regular,Necklace,Reebok
+Party,Shorts,White,Polyester,Floral,Short Sleeve,V-Neck,Slim,Scarf,Gucci
+Casual,Jumpsuit,Green,Leather,Checked,Long Sleeve,Off-Shoulder,Loose,Earrings,H&M
+Party,Sportswear,Green,Linen,Solid,Three-Quarter Sleeve,Collared,Loose,Watch,Adidas
+Wedding,Jumpsuit,Orange,Silk,Solid,Short Sleeve,Collared,Slim,Ring,Reebok
+Sports,Blazer,Black,Chiffon,Abstract,Long Sleeve,Halter,Regular,Belt,Puma
+Wedding,Jeans,White,Denim,Solid,Long Sleeve,Round Neck,Tailored,Sunglasses,H&M
+Formal,Skirt,White,Wool,Solid,Long Sleeve,Collared,Tailored,Earrings,Nike
+Formal,Jumpsuit,Purple,Polyester,Floral,Three-Quarter Sleeve,Round Neck,Slim,Ring,Puma
+Party,Jumpsuit,Purple,Polyester,Abstract,Sleeveless,Round Neck,Loose,Earrings,Nike
+Party,Dress,Brown,Leather,Abstract,Three-Quarter Sleeve,Round Neck,Regular,Scarf,Zara
+Formal,Suit,Yellow,Linen,Abstract,Three-Quarter Sleeve,Round Neck,Slim,Hat,Zara
+Casual,Dress,Blue,Leather,Checked,Long Sleeve,V-Neck,Regular,Ring,Adidas
+Business,Skirt,Pink,Denim,Striped,Three-Quarter Sleeve,Halter,Slim,Sunglasses,Adidas
+Wedding,Jeans,Green,Silk,Polka Dot,Three-Quarter Sleeve,Off-Shoulder,Tailored,Earrings,Levi's
+Casual,Saree,Purple,Chiffon,Checked,Three-Quarter Sleeve,Halter,Loose,Hat,Prada
+Wedding,Saree,Purple,Linen,Solid,Sleeveless,Round Neck,Tailored,Watch,Puma
+Business,Skirt,Pink,Polyester,Solid,Short Sleeve,Halter,Regular,Watch,Puma
+Business,Dress,Purple,Wool,Floral,Long Sleeve,Off-Shoulder,Slim,Scarf,Prada
+Business,Dress,Yellow,Chiffon,Polka Dot,Long Sleeve,Collared,Regular,Bracelet,Adidas
+Sports,Shorts,Black,Silk,Floral,Short Sleeve,Round Neck,Slim,Scarf,Nike
+Business,Blazer,Black,Wool,Checked,Three-Quarter Sleeve,Halter,Loose,Bracelet,Nike
+Sports,Blazer,Red,Linen,Striped,Long Sleeve,Round Neck,Slim,Belt,Adidas
+Formal,Dress,Green,Leather,Checked,Three-Quarter Sleeve,Round Neck,Slim,Sunglasses,Gucci
+Wedding,Jeans,Brown,Wool,Striped,Three-Quarter Sleeve,Halter,Loose,Bracelet,Nike
+Sports,Jumpsuit,Red,Polyester,Polka Dot,Three-Quarter Sleeve,V-Neck,Slim,Scarf,Prada
+Party,Saree,Green,Cotton,Solid,Short Sleeve,Collared,Tailored,Watch,Gucci
+Wedding,Saree,Purple,Linen,Abstract,Short Sleeve,Collared,Slim,Sunglasses,Adidas
+Casual,Jeans,Blue,Denim,Floral,Sleeveless,Halter,Regular,Sunglasses,Nike
+Wedding,Skirt,Orange,Leather,Striped,Three-Quarter Sleeve,V-Neck,Loose,Belt,Adidas
+Wedding,Skirt,Pink,Leather,Striped,Sleeveless,Round Neck,Loose,Sunglasses,Puma
+Wedding,Sportswear,Yellow,Silk,Polka Dot,Short Sleeve,Off-Shoulder,Loose,Earrings,Adidas
+Casual,Skirt,Purple,Wool,Floral,Short Sleeve,Off-Shoulder,Slim,Earrings,Puma
+Casual,Blazer,Orange,Chiffon,Abstract,Long Sleeve,V-Neck,Regular,Sunglasses,Reebok
+Party,Skirt,Green,Leather,Checked,Short Sleeve,Collared,Loose,Hat,Nike
+Wedding,Sportswear,Orange,Polyester,Striped,Short Sleeve,V-Neck,Regular,Hat,Nike
+Business,Suit,White,Wool,Striped,Sleeveless,Collared,Loose,Ring,Reebok
+Business,Sportswear,Pink,Leather,Checked,Long Sleeve,V-Neck,Regular,Scarf,Levi's
+Wedding,Blazer,Black,Silk,Polka Dot,Long Sleeve,Collared,Slim,Bracelet,Gucci
+Party,T-shirt,Black,Leather,Striped,Three-Quarter Sleeve,V-Neck,Slim,Sunglasses,Prada
+Wedding,Dress,Black,Denim,Striped,Three-Quarter Sleeve,Halter,Regular,Watch,Puma
+Sports,Suit,Pink,Wool,Checked,Sleeveless,Collared,Loose,Earrings,Gucci
+Casual,Dress,Blue,Polyester,Polka Dot,Sleeveless,Halter,Regular,Earrings,Levi's
+Casual,Jeans,Brown,Linen,Checked,Three-Quarter Sleeve,Round Neck,Loose,Hat,Reebok
+Business,Suit,Orange,Silk,Abstract,Long Sleeve,Collared,Slim,Necklace,Prada
+Party,Skirt,Black,Wool,Checked,Long Sleeve,Off-Shoulder,Tailored,Belt,H&M
+Formal,Sportswear,Purple,Silk,Floral,Sleeveless,V-Neck,Loose,Watch,Levi's
+Party,Blazer,Purple,Leather,Floral,Long Sleeve,Round Neck,Tailored,Ring,Adidas
+Business,Saree,Black,Wool,Striped,Sleeveless,Off-Shoulder,Regular,Scarf,Reebok
+Party,T-shirt,Black,Linen,Floral,Long Sleeve,Halter,Regular,Earrings,Puma
+Sports,Jumpsuit,Green,Polyester,Striped,Long Sleeve,Off-Shoulder,Loose,Belt,Gucci
+Wedding,Dress,Black,Wool,Polka Dot,Short Sleeve,Collared,Regular,Ring,Reebok
+Party,Suit,Pink,Polyester,Striped,Short Sleeve,Collared,Loose,Belt,H&M
+Sports,Saree,Red,Polyester,Abstract,Sleeveless,Collared,Tailored,Sunglasses,Puma
+Business,Saree,White,Cotton,Checked,Sleeveless,Collared,Slim,Ring,H&M
+Formal,Suit,White,Silk,Abstract,Long Sleeve,Off-Shoulder,Loose,Sunglasses,Levi's
+Casual,Shorts,Yellow,Silk,Polka Dot,Long Sleeve,Round Neck,Regular,Hat,Zara
+Party,Jeans,Brown,Linen,Checked,Sleeveless,Halter,Loose,Necklace,Nike
+Sports,Dress,Pink,Leather,Polka Dot,Three-Quarter Sleeve,V-Neck,Tailored,Scarf,Puma
+Formal,Saree,White,Leather,Striped,Short Sleeve,Off-Shoulder,Regular,Scarf,Gucci
+Party,Saree,Yellow,Polyester,Striped,Short Sleeve,Off-Shoulder,Regular,Ring,Nike
+Party,Skirt,Yellow,Leather,Checked,Sleeveless,Halter,Regular,Scarf,Adidas
+Party,Suit,Red,Leather,Polka Dot,Short Sleeve,Collared,Tailored,Hat,Levi's
+Sports,Dress,Black,Cotton,Abstract,Three-Quarter Sleeve,Off-Shoulder,Slim,Sunglasses,Prada
+Sports,Saree,Yellow,Leather,Abstract,Long Sleeve,Collared,Tailored,Necklace,Levi's
+Casual,Jeans,Yellow,Chiffon,Abstract,Three-Quarter Sleeve,Round Neck,Tailored,Sunglasses,Levi's
+Casual,Suit,Blue,Silk,Floral,Long Sleeve,Off-Shoulder,Tailored,Watch,Puma
+Wedding,Suit,Orange,Polyester,Polka Dot,Three-Quarter Sleeve,Off-Shoulder,Regular,Watch,Levi's
+Party,Jeans,Yellow,Denim,Abstract,Sleeveless,Collared,Loose,Ring,Reebok
+Formal,Skirt,Brown,Polyester,Checked,Sleeveless,Off-Shoulder,Regular,Bracelet,Adidas
+Formal,Suit,Blue,Silk,Solid,Long Sleeve,V-Neck,Tailored,Belt,Gucci
+Wedding,T-shirt,Green,Cotton,Polka Dot,Short Sleeve,Collared,Loose,Earrings,Zara
+Casual,Shorts,Red,Wool,Striped,Short Sleeve,Off-Shoulder,Slim,Sunglasses,Puma
+Wedding,Shorts,Yellow,Silk,Floral,Long Sleeve,Off-Shoulder,Regular,Bracelet,H&M
+Sports,T-shirt,Brown,Wool,Checked,Long Sleeve,V-Neck,Tailored,Watch,Nike
+Business,Jumpsuit,Green,Linen,Floral,Short Sleeve,Halter,Regular,Necklace,Prada
+Formal,Shorts,Red,Chiffon,Polka Dot,Three-Quarter Sleeve,Off-Shoulder,Loose,Belt,Prada
+Sports,Skirt,Brown,Linen,Solid,Short Sleeve,V-Neck,Loose,Bracelet,H&M
+Sports,T-shirt,Black,Chiffon,Polka Dot,Three-Quarter Sleeve,V-Neck,Loose,Watch,Nike
+Party,T-shirt,Blue,Leather,Checked,Three-Quarter Sleeve,Off-Shoulder,Tailored,Sunglasses,Adidas
+Wedding,Skirt,Purple,Denim,Abstract,Sleeveless,V-Neck,Slim,Watch,Nike
+Party,Saree,Green,Polyester,Abstract,Long Sleeve,Off-Shoulder,Slim,Watch,Prada
+Casual,Jeans,White,Silk,Floral,Sleeveless,Collared,Loose,Scarf,Prada
+Formal,Sportswear,Purple,Chiffon,Solid,Three-Quarter Sleeve,V-Neck,Regular,Watch,Adidas
+Formal,Blazer,Purple,Denim,Abstract,Short Sleeve,Round Neck,Regular,Ring,Prada
+Wedding,Dress,Blue,Chiffon,Abstract,Sleeveless,Collared,Regular,Watch,Gucci
+Wedding,Sportswear,Purple,Polyester,Striped,Sleeveless,Round Neck,Slim,Necklace,Reebok
+Formal,Jumpsuit,Black,Linen,Polka Dot,Long Sleeve,Off-Shoulder,Slim,Hat,Nike
+Sports,Skirt,Black,Silk,Polka Dot,Short Sleeve,Halter,Slim,Belt,Nike
+Casual,Saree,Purple,Wool,Polka Dot,Short Sleeve,V-Neck,Tailored,Sunglasses,Prada
+Wedding,Blazer,Green,Wool,Striped,Long Sleeve,Round Neck,Loose,Ring,Reebok
+Casual,Suit,Orange,Denim,Polka Dot,Three-Quarter Sleeve,Off-Shoulder,Loose,Ring,Adidas
+Sports,Jeans,Orange,Denim,Checked,Three-Quarter Sleeve,Round Neck,Slim,Watch,Puma
+Formal,Skirt,Green,Denim,Checked,Long Sleeve,Round Neck,Loose,Hat,Prada
+Casual,Skirt,Orange,Chiffon,Solid,Short Sleeve,Round Neck,Slim,Scarf,Levi's
+Sports,Shorts,Blue,Polyester,Striped,Long Sleeve,V-Neck,Slim,Ring,H&M
+Wedding,Blazer,Brown,Cotton,Striped,Long Sleeve,V-Neck,Slim,Belt,Levi's
+Party,Suit,Green,Cotton,Striped,Long Sleeve,Off-Shoulder,Loose,Bracelet,H&M
+Formal,Shorts,Yellow,Chiffon,Floral,Long Sleeve,Collared,Regular,Necklace,Gucci
+Casual,Shorts,Black,Cotton,Checked,Sleeveless,Collared,Loose,Belt,Adidas
+Business,Jumpsuit,Yellow,Linen,Abstract,Long Sleeve,Collared,Loose,Watch,Prada
+Formal,Saree,Orange,Chiffon,Floral,Short Sleeve,Halter,Slim,Ring,Puma
+Business,Jeans,Pink,Chiffon,Floral,Sleeveless,V-Neck,Loose,Earrings,Reebok
+Casual,Shorts,Black,Chiffon,Abstract,Sleeveless,Round Neck,Loose,Necklace,Zara
+Party,Skirt,Red,Cotton,Floral,Short Sleeve,Round Neck,Tailored,Earrings,Levi's
+Party,Saree,White,Leather,Solid,Three-Quarter Sleeve,Halter,Tailored,Watch,Reebok
+Casual,Saree,Orange,Linen,Striped,Sleeveless,Collared,Loose,Earrings,Reebok
+Party,Saree,Purple,Polyester,Striped,Long Sleeve,Collared,Slim,Hat,Zara
+Formal,T-shirt,Green,Chiffon,Checked,Three-Quarter Sleeve,Collared,Slim,Belt,Levi's
+Business,Skirt,Purple,Leather,Floral,Short Sleeve,Halter,Tailored,Ring,Levi's
+Wedding,Dress,Brown,Linen,Abstract,Long Sleeve,Collared,Regular,Scarf,Zara
+Formal,Jeans,Blue,Chiffon,Floral,Short Sleeve,Round Neck,Tailored,Bracelet,Levi's
+Formal,Dress,Red,Wool,Striped,Long Sleeve,V-Neck,Tailored,Earrings,H&M
+Wedding,Jeans,Black,Denim,Floral,Short Sleeve,Collared,Tailored,Necklace,Gucci
+Party,Sportswear,Red,Silk,Striped,Three-Quarter Sleeve,Collared,Loose,Ring,Prada
+Wedding,Saree,Black,Linen,Checked,Short Sleeve,Round Neck,Regular,Watch,Nike
+Party,Jumpsuit,Green,Silk,Checked,Sleeveless,V-Neck,Tailored,Sunglasses,Adidas
+Casual,Blazer,Blue,Cotton,Striped,Long Sleeve,Off-Shoulder,Regular,Sunglasses,Levi's
+Casual,Dress,Orange,Wool,Abstract,Sleeveless,V-Neck,Tailored,Scarf,H&M
+Business,Dress,Red,Silk,Polka Dot,Three-Quarter Sleeve,Halter,Slim,Scarf,Prada
+Casual,Jumpsuit,White,Leather,Floral,Short Sleeve,Round Neck,Tailored,Bracelet,Adidas
+Business,T-shirt,White,Silk,Polka Dot,Long Sleeve,Off-Shoulder,Tailored,Sunglasses,Adidas
+Business,Suit,Orange,Chiffon,Solid,Three-Quarter Sleeve,V-Neck,Loose,Hat,Nike
+Casual,Dress,White,Silk,Solid,Three-Quarter Sleeve,V-Neck,Slim,Sunglasses,Prada
+Sports,Jumpsuit,Red,Denim,Striped,Three-Quarter Sleeve,Halter,Tailored,Belt,Adidas
+Business,Jumpsuit,Yellow,Wool,Striped,Short Sleeve,Collared,Regular,Scarf,Adidas
+Sports,Jumpsuit,Black,Chiffon,Abstract,Three-Quarter Sleeve,V-Neck,Slim,Scarf,Adidas
+Party,Blazer,Pink,Leather,Abstract,Long Sleeve,Collared,Loose,Bracelet,Reebok
+Business,T-shirt,Yellow,Chiffon,Floral,Three-Quarter Sleeve,Off-Shoulder,Regular,Belt,Levi's
+Casual,Jeans,Red,Leather,Abstract,Long Sleeve,Collared,Tailored,Belt,Adidas
+Business,Sportswear,Red,Chiffon,Striped,Short Sleeve,Off-Shoulder,Slim,Necklace,Reebok
+Party,Skirt,Black,Cotton,Floral,Sleeveless,Round Neck,Regular,Watch,Reebok
+Party,Jeans,Black,Wool,Abstract,Sleeveless,Round Neck,Tailored,Earrings,Nike
+Business,Skirt,Red,Denim,Polka Dot,Long Sleeve,Collared,Regular,Ring,Prada
+Party,Sportswear,Orange,Leather,Polka Dot,Short Sleeve,Collared,Regular,Hat,Levi's
+Party,Jumpsuit,Green,Polyester,Solid,Sleeveless,Round Neck,Tailored,Necklace,H&M
+Party,Blazer,Orange,Wool,Polka Dot,Short Sleeve,Collared,Slim,Hat,Gucci
+Formal,Dress,Brown,Leather,Polka Dot,Three-Quarter Sleeve,Halter,Tailored,Scarf,Levi's
+Wedding,Skirt,Brown,Chiffon,Checked,Long Sleeve,Collared,Tailored,Scarf,Prada
+Business,T-shirt,White,Cotton,Solid,Long Sleeve,Halter,Regular,Bracelet,Reebok
+Business,Dress,Brown,Wool,Checked,Sleeveless,Off-Shoulder,Loose,Earrings,Prada
+Business,Jeans,Brown,Linen,Polka Dot,Short Sleeve,Off-Shoulder,Slim,Scarf,H&M
+Business,Dress,Orange,Linen,Solid,Sleeveless,Off-Shoulder,Slim,Belt,Puma
