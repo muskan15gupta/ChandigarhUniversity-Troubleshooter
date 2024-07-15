@@ -1,4 +1,5 @@
-﻿ChandigarhUniversity-Troubleshooter
+﻿#ChandigarhUniversity-Troubleshooter
+ 
 Virtual Wadrobe
 This project is a Django-based web application for managing wardrobe items and recommending outfits based on user preferences.
 
