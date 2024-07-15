@@ -2,16 +2,6 @@
 
 This project is a Django-based web application for managing wardrobe items and recommending outfits based on user preferences.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
